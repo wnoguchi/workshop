@@ -19,6 +19,10 @@ Links
 1. [ATNDカレンダー検索](http://utf-8.jp/tool/atnd/search.html)
 1. [Doorkeeper](https://manage.doorkeeper.jp/user/sign_in)
 
+#### インフラ系
+
+1. [インフラエンジニア勉強会hbstudy | 株式会社ハートビーツ](http://heartbeats.jp/hbstudy/)
+1. [インフラエンジニア勉強会hbstudyとは - インフラエンジニア勉強会hbstudy | 株式会社ハートビーツ](http://heartbeats.jp/hbstudy/about.html)
 
 TOC
 -----
